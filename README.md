@@ -1,2 +1,3 @@
 # IMAGE-CLASSIFICATION-PROJECT
-Deep Learning and Neural Network Model Project Python
+
+Deep Learning and Neural Network Model Python Project
